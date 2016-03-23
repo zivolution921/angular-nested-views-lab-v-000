@@ -6,6 +6,6 @@
 
 ## Instructions
 
-We've got a settings page, and three children pages for that settings page - user, notifications and profile.
+Let's build a mini fake Twitter. We've got a home page, and inside that home page we'd like to have the nested views for the user's timeline, their notifications and a user profile.
 
-Configure all the four routes that we need, with the correct URLs and templates. Also - configure the navigation for our settings page!
+Configure the four routes that we need, with the correct URLs and templates. Also - configure the navigation for our home page!
